@@ -66,8 +66,7 @@
               "RelativeToolTip": "Lecture\\05_ReturnNameOfLanguage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T03:39:10.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T03:39:10.183Z"
             },
             {
               "$type": "Document",
@@ -79,8 +78,7 @@
               "RelativeToolTip": "Lecture\\02_ReturnNotHalf.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T03:38:57.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T03:38:57.633Z"
             },
             {
               "$type": "Document",
@@ -92,8 +90,7 @@
               "RelativeToolTip": "Lecture\\08_ReturnTrueWhenGreaterThanFive.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T03:33:00.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T03:33:00.774Z"
             },
             {
               "$type": "Document",
@@ -103,7 +100,7 @@
               "RelativeDocumentMoniker": "Lecture\\06_ReturnTrueFromIf.cs",
               "ToolTip": "C:\\git\\projects\\code-for-kenny\\Logical-branching\\lecture-final\\Lecture\\06_ReturnTrueFromIf.cs",
               "RelativeToolTip": "Lecture\\06_ReturnTrueFromIf.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T03:32:59.928Z",
               "EditorCaption": ""
@@ -118,8 +115,7 @@
               "RelativeToolTip": "Lecture\\04_ReturnDoubleOfTwo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T03:32:58.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T03:32:58.974Z"
             },
             {
               "$type": "Document",
@@ -131,8 +127,7 @@
               "RelativeToolTip": "Lecture\\03_ReturnName.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T03:32:56.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T03:32:56.968Z"
             },
             {
               "$type": "Document",
@@ -140,38 +135,35 @@
               "Title": "01_ReturnNotOne.cs",
               "DocumentMoniker": "C:\\git\\projects\\code-for-kenny\\Logical-branching\\lecture-final\\Lecture\\01_ReturnNotOne.cs",
               "RelativeDocumentMoniker": "Lecture\\01_ReturnNotOne.cs",
-              "ToolTip": "C:\\git\\projects\\code-for-kenny\\Logical-branching\\lecture-final\\Lecture\\01_ReturnNotOne.cs*",
-              "RelativeToolTip": "Lecture\\01_ReturnNotOne.cs*",
+              "ToolTip": "C:\\git\\projects\\code-for-kenny\\Logical-branching\\lecture-final\\Lecture\\01_ReturnNotOne.cs",
+              "RelativeToolTip": "Lecture\\01_ReturnNotOne.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T03:32:50.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T03:32:50.365Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Lecture",
+              "Title": "Lecture.csproj",
               "DocumentMoniker": "C:\\git\\projects\\code-for-kenny\\Logical-branching\\lecture-final\\Lecture\\Lecture.csproj",
               "RelativeDocumentMoniker": "Lecture\\Lecture.csproj",
               "ToolTip": "C:\\git\\projects\\code-for-kenny\\Logical-branching\\lecture-final\\Lecture\\Lecture.csproj",
               "RelativeToolTip": "Lecture\\Lecture.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-01T03:32:25.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T03:32:25.178Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Lecture.Tests",
+              "Title": "Lecture.Tests.csproj",
               "DocumentMoniker": "C:\\git\\projects\\code-for-kenny\\Logical-branching\\lecture-final\\Lecture.Tests\\Lecture.Tests.csproj",
               "RelativeDocumentMoniker": "Lecture.Tests\\Lecture.Tests.csproj",
               "ToolTip": "C:\\git\\projects\\code-for-kenny\\Logical-branching\\lecture-final\\Lecture.Tests\\Lecture.Tests.csproj",
               "RelativeToolTip": "Lecture.Tests\\Lecture.Tests.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-01T03:32:24.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T03:32:24.586Z"
             }
           ]
         }
