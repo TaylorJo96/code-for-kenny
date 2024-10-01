@@ -1,0 +1,14 @@
+C:\git\projects\code-for-kenny\Logical-branching\lecture-final\Lecture\bin\Debug\netcoreapp3.1\Lecture.exe
+C:\git\projects\code-for-kenny\Logical-branching\lecture-final\Lecture\bin\Debug\netcoreapp3.1\Lecture.deps.json
+C:\git\projects\code-for-kenny\Logical-branching\lecture-final\Lecture\bin\Debug\netcoreapp3.1\Lecture.runtimeconfig.json
+C:\git\projects\code-for-kenny\Logical-branching\lecture-final\Lecture\bin\Debug\netcoreapp3.1\Lecture.runtimeconfig.dev.json
+C:\git\projects\code-for-kenny\Logical-branching\lecture-final\Lecture\bin\Debug\netcoreapp3.1\Lecture.dll
+C:\git\projects\code-for-kenny\Logical-branching\lecture-final\Lecture\bin\Debug\netcoreapp3.1\Lecture.pdb
+C:\git\projects\code-for-kenny\Logical-branching\lecture-final\Lecture\obj\Debug\netcoreapp3.1\Lecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\projects\code-for-kenny\Logical-branching\lecture-final\Lecture\obj\Debug\netcoreapp3.1\Lecture.AssemblyInfoInputs.cache
+C:\git\projects\code-for-kenny\Logical-branching\lecture-final\Lecture\obj\Debug\netcoreapp3.1\Lecture.AssemblyInfo.cs
+C:\git\projects\code-for-kenny\Logical-branching\lecture-final\Lecture\obj\Debug\netcoreapp3.1\Lecture.csproj.CoreCompileInputs.cache
+C:\git\projects\code-for-kenny\Logical-branching\lecture-final\Lecture\obj\Debug\netcoreapp3.1\Lecture.sourcelink.json
+C:\git\projects\code-for-kenny\Logical-branching\lecture-final\Lecture\obj\Debug\netcoreapp3.1\Lecture.dll
+C:\git\projects\code-for-kenny\Logical-branching\lecture-final\Lecture\obj\Debug\netcoreapp3.1\Lecture.pdb
+C:\git\projects\code-for-kenny\Logical-branching\lecture-final\Lecture\obj\Debug\netcoreapp3.1\Lecture.genruntimeconfig.cache
