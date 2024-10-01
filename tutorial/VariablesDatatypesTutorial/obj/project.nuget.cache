@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1KE621zFhmc=",
+  "success": true,
+  "projectFilePath": "C:\\git\\projects\\Tech-Elevator-homework-and-projects\\csharp\\module-1\\01-Intro_To_Tools\\02_Variables_and_Datatypes\\tutorial\\VariablesDatatypesTutorial\\VariablesDatatypesTutorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tdupont\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\tdupont\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\tdupont\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\tdupont\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
