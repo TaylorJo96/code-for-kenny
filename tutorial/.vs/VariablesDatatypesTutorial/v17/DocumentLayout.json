@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\git\\projects\\Tech-Elevator-homework-and-projects\\csharp\\module-1\\01-Intro_To_Tools\\02_Variables_and_Datatypes\\tutorial\\",
+  "WorkspaceRootPath": "C:\\git\\projects\\code-for-kenny\\tutorial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A17CA10-3E5A-4B8E-B1F3-40B810515C3B}|VariablesDatatypesTutorial\\VariablesDatatypesTutorial.csproj|c:\\git\\projects\\tech-elevator-homework-and-projects\\csharp\\module-1\\01-intro_to_tools\\02_variables_and_datatypes\\tutorial\\variablesdatatypestutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A17CA10-3E5A-4B8E-B1F3-40B810515C3B}|VariablesDatatypesTutorial\\VariablesDatatypesTutorial.csproj|c:\\git\\projects\\code-for-kenny\\tutorial\\variablesdatatypestutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A17CA10-3E5A-4B8E-B1F3-40B810515C3B}|VariablesDatatypesTutorial\\VariablesDatatypesTutorial.csproj|solutionrelative:variablesdatatypestutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\git\\projects\\Tech-Elevator-homework-and-projects\\csharp\\module-1\\01-Intro_To_Tools\\02_Variables_and_Datatypes\\tutorial\\VariablesDatatypesTutorial\\Program.cs",
+              "DocumentMoniker": "C:\\git\\projects\\code-for-kenny\\tutorial\\VariablesDatatypesTutorial\\Program.cs",
               "RelativeDocumentMoniker": "VariablesDatatypesTutorial\\Program.cs",
-              "ToolTip": "C:\\git\\projects\\Tech-Elevator-homework-and-projects\\csharp\\module-1\\01-Intro_To_Tools\\02_Variables_and_Datatypes\\tutorial\\VariablesDatatypesTutorial\\Program.cs",
+              "ToolTip": "C:\\git\\projects\\code-for-kenny\\tutorial\\VariablesDatatypesTutorial\\Program.cs",
               "RelativeToolTip": "VariablesDatatypesTutorial\\Program.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T01:51:02.286Z",
               "EditorCaption": ""

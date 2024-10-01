@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\projects\\Tech-Elevator-homework-and-projects\\csharp\\module-1\\01-Intro_To_Tools\\02_Variables_and_Datatypes\\tutorial\\VariablesDatatypesTutorial\\VariablesDatatypesTutorial.csproj": {}
+    "C:\\git\\projects\\code-for-kenny\\tutorial\\VariablesDatatypesTutorial\\VariablesDatatypesTutorial.csproj": {}
   },
   "projects": {
-    "C:\\git\\projects\\Tech-Elevator-homework-and-projects\\csharp\\module-1\\01-Intro_To_Tools\\02_Variables_and_Datatypes\\tutorial\\VariablesDatatypesTutorial\\VariablesDatatypesTutorial.csproj": {
+    "C:\\git\\projects\\code-for-kenny\\tutorial\\VariablesDatatypesTutorial\\VariablesDatatypesTutorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\projects\\Tech-Elevator-homework-and-projects\\csharp\\module-1\\01-Intro_To_Tools\\02_Variables_and_Datatypes\\tutorial\\VariablesDatatypesTutorial\\VariablesDatatypesTutorial.csproj",
+        "projectUniqueName": "C:\\git\\projects\\code-for-kenny\\tutorial\\VariablesDatatypesTutorial\\VariablesDatatypesTutorial.csproj",
         "projectName": "VariablesDatatypesTutorial",
-        "projectPath": "C:\\git\\projects\\Tech-Elevator-homework-and-projects\\csharp\\module-1\\01-Intro_To_Tools\\02_Variables_and_Datatypes\\tutorial\\VariablesDatatypesTutorial\\VariablesDatatypesTutorial.csproj",
+        "projectPath": "C:\\git\\projects\\code-for-kenny\\tutorial\\VariablesDatatypesTutorial\\VariablesDatatypesTutorial.csproj",
         "packagesPath": "C:\\Users\\tdupont\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\projects\\Tech-Elevator-homework-and-projects\\csharp\\module-1\\01-Intro_To_Tools\\02_Variables_and_Datatypes\\tutorial\\VariablesDatatypesTutorial\\obj\\",
+        "outputPath": "C:\\git\\projects\\code-for-kenny\\tutorial\\VariablesDatatypesTutorial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tdupont\\AppData\\Roaming\\NuGet\\NuGet.Config",

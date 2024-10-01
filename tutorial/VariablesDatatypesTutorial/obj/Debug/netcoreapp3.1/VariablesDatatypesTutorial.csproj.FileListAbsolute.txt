@@ -12,3 +12,17 @@ C:\git\projects\Tech-Elevator-homework-and-projects\csharp\module-1\01-Intro_To_
 C:\git\projects\Tech-Elevator-homework-and-projects\csharp\module-1\01-Intro_To_Tools\02_Variables_and_Datatypes\tutorial\VariablesDatatypesTutorial\obj\Debug\netcoreapp3.1\VariablesDatatypesTutorial.dll
 C:\git\projects\Tech-Elevator-homework-and-projects\csharp\module-1\01-Intro_To_Tools\02_Variables_and_Datatypes\tutorial\VariablesDatatypesTutorial\obj\Debug\netcoreapp3.1\VariablesDatatypesTutorial.pdb
 C:\git\projects\Tech-Elevator-homework-and-projects\csharp\module-1\01-Intro_To_Tools\02_Variables_and_Datatypes\tutorial\VariablesDatatypesTutorial\obj\Debug\netcoreapp3.1\VariablesDatatypesTutorial.genruntimeconfig.cache
+C:\git\projects\code-for-kenny\tutorial\VariablesDatatypesTutorial\bin\Debug\netcoreapp3.1\VariablesDatatypesTutorial.exe
+C:\git\projects\code-for-kenny\tutorial\VariablesDatatypesTutorial\bin\Debug\netcoreapp3.1\VariablesDatatypesTutorial.deps.json
+C:\git\projects\code-for-kenny\tutorial\VariablesDatatypesTutorial\bin\Debug\netcoreapp3.1\VariablesDatatypesTutorial.runtimeconfig.json
+C:\git\projects\code-for-kenny\tutorial\VariablesDatatypesTutorial\bin\Debug\netcoreapp3.1\VariablesDatatypesTutorial.runtimeconfig.dev.json
+C:\git\projects\code-for-kenny\tutorial\VariablesDatatypesTutorial\bin\Debug\netcoreapp3.1\VariablesDatatypesTutorial.dll
+C:\git\projects\code-for-kenny\tutorial\VariablesDatatypesTutorial\bin\Debug\netcoreapp3.1\VariablesDatatypesTutorial.pdb
+C:\git\projects\code-for-kenny\tutorial\VariablesDatatypesTutorial\obj\Debug\netcoreapp3.1\VariablesDatatypesTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\projects\code-for-kenny\tutorial\VariablesDatatypesTutorial\obj\Debug\netcoreapp3.1\VariablesDatatypesTutorial.AssemblyInfoInputs.cache
+C:\git\projects\code-for-kenny\tutorial\VariablesDatatypesTutorial\obj\Debug\netcoreapp3.1\VariablesDatatypesTutorial.AssemblyInfo.cs
+C:\git\projects\code-for-kenny\tutorial\VariablesDatatypesTutorial\obj\Debug\netcoreapp3.1\VariablesDatatypesTutorial.csproj.CoreCompileInputs.cache
+C:\git\projects\code-for-kenny\tutorial\VariablesDatatypesTutorial\obj\Debug\netcoreapp3.1\VariablesDatatypesTutorial.sourcelink.json
+C:\git\projects\code-for-kenny\tutorial\VariablesDatatypesTutorial\obj\Debug\netcoreapp3.1\VariablesDatatypesTutorial.dll
+C:\git\projects\code-for-kenny\tutorial\VariablesDatatypesTutorial\obj\Debug\netcoreapp3.1\VariablesDatatypesTutorial.pdb
+C:\git\projects\code-for-kenny\tutorial\VariablesDatatypesTutorial\obj\Debug\netcoreapp3.1\VariablesDatatypesTutorial.genruntimeconfig.cache

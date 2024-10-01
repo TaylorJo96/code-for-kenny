@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Exercises.Tests, Configuration: Debug Any CPU ------
+1>Exercises.Tests -> C:\Users\Student\git\taylor-dupont-student-code\csharp\module-1\02_Variables_and_Datatypes\exercise\Exercises.Tests\bin\Debug\netcoreapp3.1\Exercises.Tests.dll
+========== Build: 1 succeeded, 0 failed, 1 up-to-date, 0 skipped ==========
